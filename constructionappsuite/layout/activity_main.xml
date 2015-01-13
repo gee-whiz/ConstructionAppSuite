@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="0dp"
+    android:background="@color/grey">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="0dp"
+        android:background="@color/grey"
+        android:padding="@dimen/mon_padding">
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_margin="@dimen/mon_wide"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/REG_banner"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/mon_hero_height_medium"
+
+            android:scaleType="centerCrop"
+            android:src="@drawable/housedesign" />
+
+        <RelativeLayout
+            android:id="@+id/REG_ediLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/REG_banner"
+            android:background="@color/white"
+            android:padding="15dp"
+            android:visibility="gone">
+
+            /></RelativeLayout>
+
+
+        <RelativeLayout
+            android:id="@+id/REG_mainLayout"
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:layout_below="@id/REG_ediLayout"
+            android:background="@color/white"
+            android:padding="15dp"
+            android:visibility="visible">
+
+
+            <TextView
+                android:id="@+id/REG_welcome"
+                style="@style/Title1TextStyleBlack"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                android:text="We dig construction projects"
+                android:textColor="@color/green"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/REG_instruction"
+                style="@style/TextStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/REG_welcome"
+                android:layout_marginLeft="70dp"
+                android:layout_marginTop="20dp"
+                android:text="sign in or register"
+                android:textColor="@color/green"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/btnReg"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_below="@id/REG_instruction"
+                android:layout_marginTop="30dp"
+
+                android:background="@drawable/buttonlog"
+                android:text="Sign in"
+                android:textColor="@color/white"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/btnsign"
+                android:layout_width="match_parent"
+
+                android:layout_height="40dp"
+                android:layout_below="@id/btnReg"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/buttonsign"
+                android:text="Register new company"
+                android:textColor="@color/white"
+                android:textSize="20dp" />
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+
+</ScrollView>

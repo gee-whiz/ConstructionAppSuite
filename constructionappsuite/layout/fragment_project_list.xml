@@ -1,0 +1,141 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey"
+    tools:context="com.example.codetribe1.constructionappsuite.ProjectListFragment">
+
+
+    <RelativeLayout
+        android:id="@+id/topLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-10dp"
+        android:background="@color/grey"
+
+        android:padding="@dimen/mon_padding"
+        android:visibility="visible">
+
+        <ImageView
+            android:id="@+id/projectTopImg"
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_alignParentTop="true"
+
+            android:layout_centerHorizontal="true"
+
+            android:layout_marginLeft="-5dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/conequipment" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/PROJ_LIST_layoutx"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_below="@id/topLayout"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+
+        android:background="@color/beige_pale"
+        android:padding="8dp">
+
+        <TextView
+            android:id="@+id/HERO_P_statusCount"
+            style="@style/darkGreyCircle"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="3dp"
+
+            android:text="00"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/HERO_caption"
+            style="@style/TextStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/HERO_P_statusCount"
+            android:layout_toStartOf="@+id/HERO_P_statusCount"
+            android:paddingRight="-3dp"
+            android:text="status updates last 7 days"
+            android:textColor="@color/material_blue_grey_800"
+            android:textSize="14.9dp" />
+
+
+        <TextView
+            android:id="@+id/PROJ_LIST_projectCount"
+            style="@style/GreenCircle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="2dp"
+            android:layout_marginTop="3dp"
+            android:elevation="@dimen/mon_padding"
+            android:shadowColor="@color/grey2"
+            android:text="00" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/topLayout"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="-9dp"
+        android:background="@color/beige_pale"
+        android:padding="8dp">
+
+
+        <RelativeLayout
+            android:id="@+id/SLT_bottomLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+
+        android:layout_marginTop="225dp"
+        android:background="@color/white"
+        android:dividerHeight="8dp" />
+
+    <ImageView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="30dp"
+        android:alpha="5"
+        android:gravity="center"
+        android:src="@drawable/ic_action_edit"
+        android:tint="@color/green" />
+
+
+</RelativeLayout>
+
+
+
+
+
+

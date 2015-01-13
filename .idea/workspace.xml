@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a07f550-66af-438e-8a66-5bf3aa41fe8f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/action_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/activity_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/add_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable/addicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/archive_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/arrow_blue_down_128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/arrow_blue_down_64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/arrow_blue_up_128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/arrow_blue_up_64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/arrow_circle_down16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/arrow_circle_down32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/arrow_circle_down48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/arrow_circle_up16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/arrow_circle_up32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/arrow_circle_up48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/arrow_left48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/back_vector32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/back_vector48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/ball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_blue2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_circle.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_construction10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_construction11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_construction13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_construction14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_construction3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_construction4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_construction5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_construction6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_construction7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_construction8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_construction9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_engineer1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_engineer2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_engineering3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_gold2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_gps1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_gps2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_gps3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_meeting.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_meeting3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_office1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_office2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_report.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_report2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_report3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_team1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_team2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/banner_team3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable/ben.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable/bene.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/bin32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/black_woman.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-xxhdpi/blackcarpenter.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable/blackcarpenters.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-xxhdpi/blackk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/blue01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/boy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-xxhdpi/building.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/bullet_black_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/bullet_green_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/bullet_pink_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/bullet_red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/bullet_red_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/bullet_yellow_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/cal1_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/cal2_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/camcorder32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/camera32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/camera_a32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/cancel_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/cancel_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/cert1_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/cert2_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable/cli.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/clipboard32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/clubs32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable/conequipment.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/course_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/default_document.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/delete_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/drawer_shadow.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable/ed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable/ed1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable/editicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable/eng.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable/equip.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/error16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/error32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/error48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/flag32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/flag48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/flag_sa32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/flag_sa48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/folder_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/gallery_golf_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/gallery_golf_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/girl.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/golf32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/golf48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/golf64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/golfer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/golfer2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/golfer2_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/golfer3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/golfer3_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/golfer4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/golfer48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/golfer4_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/golfer_cartoon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-xxhdpi/grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/help32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/help_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/help_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/house.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-xxhdpi/housedesign.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/ic_action_add_person.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/ic_action_back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/ic_action_camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/ic_action_directions.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/ic_action_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/ic_action_email.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/ic_action_event.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/ic_action_globe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/ic_action_help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/ic_action_map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/ic_action_new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/ic_action_new_picture.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/ic_action_overflow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/ic_action_person.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/ic_action_picture.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/ic_action_refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/ic_action_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/ic_action_slideshow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/ic_action_upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/ic_action_video.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/ic_action_view_as_list.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/ic_drawer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable/images.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/imgpm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/imgpm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-xhdpi/imgpm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-xxhdpi/imgpm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/import_pic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/info32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/info32grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/info_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/info_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/light_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/light_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/little_golfer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-xxhdpi/login.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/man.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/maono.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/mlab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_1_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_23.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_34.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_35.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_37.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_38.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_39.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_41.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_42.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_43.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_44.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_45.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_46.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_47.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_49.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_51.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_52.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_53.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_54.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_55.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_56.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_58.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_59.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_61.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_62.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_63.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_65.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_66.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_67.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_68.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_69.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_70.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_71.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_73.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_74.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_75.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_77.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_78.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_79.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_80.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_81.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_82.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_83.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_84.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_85.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_86.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_87.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_88.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_89.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_90.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_91.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_92.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_93.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_94.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_95.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_97.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_98.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/number_99.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/objective_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/pictures32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/pictures48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/plus_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-xxhdpi/pressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-xxhdpi/projects.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-xxhdpi/projects1.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/question32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/question48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/reply32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-xxhdpi/reqgreen.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-xxhdpi/signin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-xxhdpi/singup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/smartphone48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/sort32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/star32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/star_blue_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/star_grey_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable/status.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/swipe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable/task.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/thumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/tick_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/tick_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/tools16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/tools32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/tools_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/tools_64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/toolsb32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/toolsb48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/trash32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/under_construction.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/users32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/video32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/wave.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/wave2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/wave3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/web32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/web48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-xxhdpi/whitestaff.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/winner_red32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-mdpi/z_info1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/BankDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/BankDetailDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/toolbox/BaseVolley.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/BeneficiaryDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/BeneficiaryFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/toolbox/BitmapLruCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/toolbox/BohaRequest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/toolbox/BohaVolley.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/util/CacheUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/CityDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/ClientDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/ClientListFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/CompanyDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/CompanyStaffDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/util/Constants.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/ContractorClaimDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/ContractorClaimSiteDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/CountryDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/util/CustomToast.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/util/DevicePageAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/EngineerDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/EngineerFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/ErrorStoreAndroidDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/ErrorStoreDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/util/ErrorUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/util/GCMUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/services/GcmBroadcastReceiver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/GcmDeviceDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/services/GcmIntentService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/GeorgeFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/HappyLetterDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/util/ImageUpload.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/InvoiceDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/InvoiceItemDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/MainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/util/MonApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/NavigationDrawerFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/OperationsPager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/PageFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/util/PhotoCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/transfer/PhotoUploadDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/services/PhotoUploadService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/util/PictureUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/adapters/PopupListAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/ProjectDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dialogs/ProjectDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/ProjectDiaryRecordDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/ProjectEngineerDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/ProjectListFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/ProjectSiteDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/ProjectSiteStaffDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/ProjectSiteTaskDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/ProjectSiteTaskStatusDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/ProjectStatusTypeDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/ProjectStatusTypeFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/ProjectStatustTypeListFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/ProvinceDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/Registration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/transfer/RequestDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/util/ResizeAnimation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/transfer/ResponseDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/util/SharedUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/SignIn.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/adapters/SpinnerListAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/StaffListFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/util/Statics.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/SubTaskDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/SubTaskStatusDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/TaskDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/TaskFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/TaskPriceDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/TaskStatusDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/TaskStatusListFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/util/TaskStatusNotificationActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/util/TimerUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/util/ToastUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/TownshipDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/util/Util.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/VideoClipContainer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/dto/VideoClipDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/util/WebCheck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/util/WebCheckResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/util/WebSocketUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/util/ZipUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/ZoomOutPageTransformer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/ZoomOutPageTransformerImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/interpolator/accelerate_cubic.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/interpolator/accelerate_decelerate.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/accelerate_decelerate_interpolator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/accelerate_interpolator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/interpolator/accelerate_quad.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/interpolator/accelerate_quint.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/activity_close_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/activity_close_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/activity_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/activity_open_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/activity_open_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/activity_operations_pager.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/activity_registration.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/activity_sign_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/activity_task_status_notification.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/interpolator/anticipate.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/anticipate_interpolator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/interpolator/anticipate_overshoot.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/anticipate_overshoot_interpolator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/app_starting_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/bounce_interpolator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-xxhdpi/buttonlog.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-xxhdpi/buttonsign.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/values/colors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/cycle_interpolator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/interpolator/decelerate_cubic.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/decelerate_interpolator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/interpolator/decelerate_quad.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/interpolator/decelerate_quint.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/dialog_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/dialog_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/values/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/values-w820dp/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/fade_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/fade_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/fast_fade_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/fast_fade_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/animator/flip_fade.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/fragment_beneficiary.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/fragment_client_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/fragment_engineer.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/fragment_george.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/fragment_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/fragment_navigation_drawer.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/fragment_project_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/fragment_project_status_type.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/fragment_project_statust_type_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/fragment_staff_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/fragment_task.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/fragment_task_status_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/menu/global.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/grow_fade_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/grow_fade_in_center.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/grow_fade_in_from_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/header_image_grid.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/hero_image.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/hero_image_popup.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/hero_image_project.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/values/ids.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/image_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/input_method_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/input_method_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/input_method_extract_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/input_method_extract_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/input_method_fancy_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/input_method_fancy_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/interpolator/linear.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/linear_interpolator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/lock_screen_behind_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/lock_screen_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/lock_screen_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/menu/menu_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/menu/menu_operations_pager.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/menu/menu_registration.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/menu/menu_sign_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/options_panel_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/options_panel_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/interpolator/overshoot.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/overshoot_interpolator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/project_edit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/push_down_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/push_down_in_no_alpha.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/push_down_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/push_down_out_no_alpha.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/push_up_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/push_up_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/recent_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/recent_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/screen_rotate_0_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/screen_rotate_0_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/screen_rotate_180_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/screen_rotate_180_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/screen_rotate_minus_90_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/screen_rotate_minus_90_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/screen_rotate_plus_90_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/screen_rotate_plus_90_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/search_bar_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/search_bar_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/shrink_fade_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/shrink_fade_out_center.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/shrink_fade_out_from_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/slide_in_child_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/slide_in_left.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/slide_in_right.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/slide_in_up.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/slide_out_down.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/slide_out_left.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/slide_out_right.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/submenu_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/submenu_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/task_close_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/task_close_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/task_open_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/task_open_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/menu/task_status_notification.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/toast.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/toast_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/toast_error.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/toast_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/toast_monitor_generic.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/toast_pager_instructions.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/translucent_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/translucent_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/wallpaper_close_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/wallpaper_close_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/wallpaper_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/wallpaper_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/wallpaper_intra_close_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/wallpaper_intra_close_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/wallpaper_intra_open_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/wallpaper_intra_open_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/wallpaper_open_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/wallpaper_open_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/white_rounded_corners.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/anim/window_move_from_decor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xbeige_pale_corners.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xblack_box.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xblack_oval.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xblack_oval_small.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xblack_rounded_corners.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xblue_box.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xblue_oval.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xblue_oval_small.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xblue_oval_smaller.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xblue_rounded_corners.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xbluelight_rounded_corners.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xborder.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xborder_rounded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable/xdarkblue.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xdarkblue_rounded_corners.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xerror_rounded_corners.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xgreen_box.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xgreen_oval.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xgreen_oval_small.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xgreen_rounded_corners.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xgreen_small_rounded_corners.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xgrey_box.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xgrey_light_rounded_corners.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xgrey_lite_rounded_corners.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xgrey_oval.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xgrey_oval_small.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xgrey_rounded_corners.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xgrey_rounded_corners_small.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xgrey_white_gradient.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xgrey_white_rounded_corners.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xmessage_rounded_corners.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xnavy_rounded_corners.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xnavy_rounded_corners_small.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xorange_box.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xorange_oval.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xorange_oval_small.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xred_box.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xred_dark_rounded_corners.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xred_oval.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xred_oval_small.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xred_rounded_corners.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/xsimple_spinner_dropdown_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/xsimple_spinner_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xthin_grey_box.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xtransparent_oval.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xtransparent_rounded_corners.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xwhite_beige.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xwhite_beige_rounded_corners.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xwhite_beige_rounded_corners_padded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xwhite_blue_gradient.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xwhite_blue_rounded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xwhite_green_gradient.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xwhite_grey.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xwhite_grey_gradient.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xwhite_paleblue_rounded_corners.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xwhite_rounded_corners.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/xxsimple_spinner_dropdown_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/xxsimple_spinner_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/xxsimple_spinner_item2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/xxsimple_spinner_item_blue.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/layout/xxsimple_spinner_item_bluedot.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xyellow_box.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constructionappsuite/drawable-hdpi/xyellow_oval.xml" />
+    </list>
+    <ignored path="ConstructionAppSuite.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ConstructionAppSuite" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="RequestDTO.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/constructionappsuite/dto/transfer/RequestDTO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="6103">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#15447#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#7158#7159#0" expanded="false" />
+                <element signature="e#7204#7205#0" expanded="false" />
+                <element signature="e#7279#7280#0" expanded="false" />
+                <element signature="e#7310#7311#0" expanded="false" />
+                <element signature="e#7357#7358#0" expanded="false" />
+                <element signature="e#7397#7398#0" expanded="false" />
+                <element signature="e#7453#7454#0" expanded="false" />
+                <element signature="e#7491#7492#0" expanded="false" />
+                <element signature="e#7671#7672#0" expanded="false" />
+                <element signature="e#7707#7708#0" expanded="false" />
+                <element signature="e#7867#7868#0" expanded="false" />
+                <element signature="e#7899#7900#0" expanded="false" />
+                <element signature="e#7955#7956#0" expanded="false" />
+                <element signature="e#7997#7998#0" expanded="false" />
+                <element signature="e#8031#8032#0" expanded="false" />
+                <element signature="e#8063#8064#0" expanded="false" />
+                <element signature="e#8111#8112#0" expanded="false" />
+                <element signature="e#8153#8154#0" expanded="false" />
+                <element signature="e#8185#8186#0" expanded="false" />
+                <element signature="e#8215#8216#0" expanded="false" />
+                <element signature="e#8259#8260#0" expanded="false" />
+                <element signature="e#8297#8298#0" expanded="false" />
+                <element signature="e#8335#8336#0" expanded="false" />
+                <element signature="e#8365#8366#0" expanded="false" />
+                <element signature="e#8415#8416#0" expanded="false" />
+                <element signature="e#8453#8454#0" expanded="false" />
+                <element signature="e#8493#8494#0" expanded="false" />
+                <element signature="e#8524#8525#0" expanded="false" />
+                <element signature="e#8577#8578#0" expanded="false" />
+                <element signature="e#8617#8618#0" expanded="false" />
+                <element signature="e#8658#8659#0" expanded="false" />
+                <element signature="e#8694#8695#0" expanded="false" />
+                <element signature="e#8753#8754#0" expanded="false" />
+                <element signature="e#8803#8804#0" expanded="false" />
+                <element signature="e#8841#8842#0" expanded="false" />
+                <element signature="e#8874#8875#0" expanded="false" />
+                <element signature="e#8927#8928#0" expanded="false" />
+                <element signature="e#8971#8972#0" expanded="false" />
+                <element signature="e#9016#9017#0" expanded="false" />
+                <element signature="e#9056#9057#0" expanded="false" />
+                <element signature="e#9218#9219#0" expanded="false" />
+                <element signature="e#9250#9251#0" expanded="false" />
+                <element signature="e#9301#9302#0" expanded="false" />
+                <element signature="e#9343#9344#0" expanded="false" />
+                <element signature="e#9382#9383#0" expanded="false" />
+                <element signature="e#9416#9417#0" expanded="false" />
+                <element signature="e#9471#9472#0" expanded="false" />
+                <element signature="e#9517#9518#0" expanded="false" />
+                <element signature="e#9554#9555#0" expanded="false" />
+                <element signature="e#9586#9587#0" expanded="false" />
+                <element signature="e#9637#9638#0" expanded="false" />
+                <element signature="e#9679#9680#0" expanded="false" />
+                <element signature="e#9721#9722#0" expanded="false" />
+                <element signature="e#9758#9759#0" expanded="false" />
+                <element signature="e#9819#9820#0" expanded="false" />
+                <element signature="e#9871#9872#0" expanded="false" />
+                <element signature="e#9908#9909#0" expanded="false" />
+                <element signature="e#9940#9941#0" expanded="false" />
+                <element signature="e#9991#9992#0" expanded="false" />
+                <element signature="e#10033#10034#0" expanded="false" />
+                <element signature="e#10074#10075#0" expanded="false" />
+                <element signature="e#10110#10111#0" expanded="false" />
+                <element signature="e#10169#10170#0" expanded="false" />
+                <element signature="e#10219#10220#0" expanded="false" />
+                <element signature="e#10264#10265#0" expanded="false" />
+                <element signature="e#10304#10305#0" expanded="false" />
+                <element signature="e#10466#10467#0" expanded="false" />
+                <element signature="e#10498#10499#0" expanded="false" />
+                <element signature="e#10549#10550#0" expanded="false" />
+                <element signature="e#10591#10592#0" expanded="false" />
+                <element signature="e#10628#10629#0" expanded="false" />
+                <element signature="e#10660#10661#0" expanded="false" />
+                <element signature="e#10711#10712#0" expanded="false" />
+                <element signature="e#10753#10754#0" expanded="false" />
+                <element signature="e#10785#10786#0" expanded="false" />
+                <element signature="e#10813#10814#0" expanded="false" />
+                <element signature="e#10855#10856#0" expanded="false" />
+                <element signature="e#10889#10890#0" expanded="false" />
+                <element signature="e#10919#10920#0" expanded="false" />
+                <element signature="e#10945#10946#0" expanded="false" />
+                <element signature="e#10983#10984#0" expanded="false" />
+                <element signature="e#11013#11014#0" expanded="false" />
+                <element signature="e#11057#11058#0" expanded="false" />
+                <element signature="e#11097#11098#0" expanded="false" />
+                <element signature="e#11256#11257#0" expanded="false" />
+                <element signature="e#11287#11288#0" expanded="false" />
+                <element signature="e#11335#11336#0" expanded="false" />
+                <element signature="e#11375#11376#0" expanded="false" />
+                <element signature="e#11411#11412#0" expanded="false" />
+                <element signature="e#11443#11444#0" expanded="false" />
+                <element signature="e#11493#11494#0" expanded="false" />
+                <element signature="e#11535#11536#0" expanded="false" />
+                <element signature="e#11573#11574#0" expanded="false" />
+                <element signature="e#11603#11604#0" expanded="false" />
+                <element signature="e#11653#11654#0" expanded="false" />
+                <element signature="e#11691#11692#0" expanded="false" />
+                <element signature="e#11739#11740#0" expanded="false" />
+                <element signature="e#11774#11775#0" expanded="false" />
+                <element signature="e#11839#11840#0" expanded="false" />
+                <element signature="e#11887#11888#0" expanded="false" />
+                <element signature="e#11925#11926#0" expanded="false" />
+                <element signature="e#11955#11956#0" expanded="false" />
+                <element signature="e#12005#12006#0" expanded="false" />
+                <element signature="e#12043#12044#0" expanded="false" />
+                <element signature="e#12075#12076#0" expanded="false" />
+                <element signature="e#12102#12103#0" expanded="false" />
+                <element signature="e#12143#12144#0" expanded="false" />
+                <element signature="e#12175#12176#0" expanded="false" />
+                <element signature="e#12215#12216#0" expanded="false" />
+                <element signature="e#12246#12247#0" expanded="false" />
+                <element signature="e#12299#12300#0" expanded="false" />
+                <element signature="e#12339#12340#0" expanded="false" />
+                <element signature="e#12385#12386#0" expanded="false" />
+                <element signature="e#12419#12420#0" expanded="false" />
+                <element signature="e#12481#12482#0" expanded="false" />
+                <element signature="e#12527#12528#0" expanded="false" />
+                <element signature="e#12569#12570#0" expanded="false" />
+                <element signature="e#12601#12602#0" expanded="false" />
+                <element signature="e#12657#12658#0" expanded="false" />
+                <element signature="e#12699#12700#0" expanded="false" />
+                <element signature="e#12731#12732#0" expanded="false" />
+                <element signature="e#12758#12759#0" expanded="false" />
+                <element signature="e#12799#12800#0" expanded="false" />
+                <element signature="e#12831#12832#0" expanded="false" />
+                <element signature="e#12875#12876#0" expanded="false" />
+                <element signature="e#12908#12909#0" expanded="false" />
+                <element signature="e#12967#12968#0" expanded="false" />
+                <element signature="e#13011#13012#0" expanded="false" />
+                <element signature="e#13065#13066#0" expanded="false" />
+                <element signature="e#13103#13104#0" expanded="false" />
+                <element signature="e#13293#13294#0" expanded="false" />
+                <element signature="e#13335#13336#0" expanded="false" />
+                <element signature="e#13521#13522#0" expanded="false" />
+                <element signature="e#13551#13552#0" expanded="false" />
+                <element signature="e#13601#13602#0" expanded="false" />
+                <element signature="e#13639#13640#0" expanded="false" />
+                <element signature="e#13685#13686#0" expanded="false" />
+                <element signature="e#13719#13720#0" expanded="false" />
+                <element signature="e#13781#13782#0" expanded="false" />
+                <element signature="e#13827#13828#0" expanded="false" />
+                <element signature="e#13859#13860#0" expanded="false" />
+                <element signature="e#13886#13887#0" expanded="false" />
+                <element signature="e#13927#13928#0" expanded="false" />
+                <element signature="e#13959#13960#0" expanded="false" />
+                <element signature="e#14003#14004#0" expanded="false" />
+                <element signature="e#14036#14037#0" expanded="false" />
+                <element signature="e#14095#14096#0" expanded="false" />
+                <element signature="e#14139#14140#0" expanded="false" />
+                <element signature="e#14175#14176#0" expanded="false" />
+                <element signature="e#14204#14205#0" expanded="false" />
+                <element signature="e#14251#14252#0" expanded="false" />
+                <element signature="e#14287#14288#0" expanded="false" />
+                <element signature="e#14341#14342#0" expanded="false" />
+                <element signature="e#14379#14380#0" expanded="false" />
+                <element signature="e#14567#14568#0" expanded="false" />
+                <element signature="e#14608#14609#0" expanded="false" />
+                <element signature="e#14817#14818#0" expanded="false" />
+                <element signature="e#14861#14862#0" expanded="false" />
+                <element signature="e#15077#15078#0" expanded="false" />
+                <element signature="e#15117#15118#0" expanded="false" />
+                <element signature="e#15301#15302#0" expanded="false" />
+                <element signature="e#15335#15336#0" expanded="false" />
+                <element signature="e#15397#15398#0" expanded="false" />
+                <element signature="e#15443#15444#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fade_in.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/constructionappsuite/anim/fade_in.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5730337" vertical-offset="0" max-vertical-offset="534">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Desktop/pparsecode/Parse-Starter-Project-1.8.0" value="4254395226000" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-10" />
+    <option name="y" value="-2" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Production">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ConstructionAppSuite">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ConstructionAppSuite">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT=".idea">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ConstructionAppSuite">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ConstructionAppSuite">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="constructionappsuite">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ConstructionAppSuite">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT=".idea">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="com.genymobile.genymotion.ide.idea.GdmSettings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\CodeTribe1\Documents\GitHub\ConstructionAppSuite\constructionappsuite" />
+      <recent name="C:\Users\CodeTribe1\Documents\GitHub\ConstructionAppSuite" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a07f550-66af-438e-8a66-5bf3aa41fe8f" name="Default" comment="" />
+      <created>1421138050041</created>
+      <updated>1421138050041</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-10" y="-2" width="1382" height="744" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/constructionappsuite/dto/transfer/RequestDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6103">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15447#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#7158#7159#0" expanded="false" />
+            <element signature="e#7204#7205#0" expanded="false" />
+            <element signature="e#7279#7280#0" expanded="false" />
+            <element signature="e#7310#7311#0" expanded="false" />
+            <element signature="e#7357#7358#0" expanded="false" />
+            <element signature="e#7397#7398#0" expanded="false" />
+            <element signature="e#7453#7454#0" expanded="false" />
+            <element signature="e#7491#7492#0" expanded="false" />
+            <element signature="e#7671#7672#0" expanded="false" />
+            <element signature="e#7707#7708#0" expanded="false" />
+            <element signature="e#7867#7868#0" expanded="false" />
+            <element signature="e#7899#7900#0" expanded="false" />
+            <element signature="e#7955#7956#0" expanded="false" />
+            <element signature="e#7997#7998#0" expanded="false" />
+            <element signature="e#8031#8032#0" expanded="false" />
+            <element signature="e#8063#8064#0" expanded="false" />
+            <element signature="e#8111#8112#0" expanded="false" />
+            <element signature="e#8153#8154#0" expanded="false" />
+            <element signature="e#8185#8186#0" expanded="false" />
+            <element signature="e#8215#8216#0" expanded="false" />
+            <element signature="e#8259#8260#0" expanded="false" />
+            <element signature="e#8297#8298#0" expanded="false" />
+            <element signature="e#8335#8336#0" expanded="false" />
+            <element signature="e#8365#8366#0" expanded="false" />
+            <element signature="e#8415#8416#0" expanded="false" />
+            <element signature="e#8453#8454#0" expanded="false" />
+            <element signature="e#8493#8494#0" expanded="false" />
+            <element signature="e#8524#8525#0" expanded="false" />
+            <element signature="e#8577#8578#0" expanded="false" />
+            <element signature="e#8617#8618#0" expanded="false" />
+            <element signature="e#8658#8659#0" expanded="false" />
+            <element signature="e#8694#8695#0" expanded="false" />
+            <element signature="e#8753#8754#0" expanded="false" />
+            <element signature="e#8803#8804#0" expanded="false" />
+            <element signature="e#8841#8842#0" expanded="false" />
+            <element signature="e#8874#8875#0" expanded="false" />
+            <element signature="e#8927#8928#0" expanded="false" />
+            <element signature="e#8971#8972#0" expanded="false" />
+            <element signature="e#9016#9017#0" expanded="false" />
+            <element signature="e#9056#9057#0" expanded="false" />
+            <element signature="e#9218#9219#0" expanded="false" />
+            <element signature="e#9250#9251#0" expanded="false" />
+            <element signature="e#9301#9302#0" expanded="false" />
+            <element signature="e#9343#9344#0" expanded="false" />
+            <element signature="e#9382#9383#0" expanded="false" />
+            <element signature="e#9416#9417#0" expanded="false" />
+            <element signature="e#9471#9472#0" expanded="false" />
+            <element signature="e#9517#9518#0" expanded="false" />
+            <element signature="e#9554#9555#0" expanded="false" />
+            <element signature="e#9586#9587#0" expanded="false" />
+            <element signature="e#9637#9638#0" expanded="false" />
+            <element signature="e#9679#9680#0" expanded="false" />
+            <element signature="e#9721#9722#0" expanded="false" />
+            <element signature="e#9758#9759#0" expanded="false" />
+            <element signature="e#9819#9820#0" expanded="false" />
+            <element signature="e#9871#9872#0" expanded="false" />
+            <element signature="e#9908#9909#0" expanded="false" />
+            <element signature="e#9940#9941#0" expanded="false" />
+            <element signature="e#9991#9992#0" expanded="false" />
+            <element signature="e#10033#10034#0" expanded="false" />
+            <element signature="e#10074#10075#0" expanded="false" />
+            <element signature="e#10110#10111#0" expanded="false" />
+            <element signature="e#10169#10170#0" expanded="false" />
+            <element signature="e#10219#10220#0" expanded="false" />
+            <element signature="e#10264#10265#0" expanded="false" />
+            <element signature="e#10304#10305#0" expanded="false" />
+            <element signature="e#10466#10467#0" expanded="false" />
+            <element signature="e#10498#10499#0" expanded="false" />
+            <element signature="e#10549#10550#0" expanded="false" />
+            <element signature="e#10591#10592#0" expanded="false" />
+            <element signature="e#10628#10629#0" expanded="false" />
+            <element signature="e#10660#10661#0" expanded="false" />
+            <element signature="e#10711#10712#0" expanded="false" />
+            <element signature="e#10753#10754#0" expanded="false" />
+            <element signature="e#10785#10786#0" expanded="false" />
+            <element signature="e#10813#10814#0" expanded="false" />
+            <element signature="e#10855#10856#0" expanded="false" />
+            <element signature="e#10889#10890#0" expanded="false" />
+            <element signature="e#10919#10920#0" expanded="false" />
+            <element signature="e#10945#10946#0" expanded="false" />
+            <element signature="e#10983#10984#0" expanded="false" />
+            <element signature="e#11013#11014#0" expanded="false" />
+            <element signature="e#11057#11058#0" expanded="false" />
+            <element signature="e#11097#11098#0" expanded="false" />
+            <element signature="e#11256#11257#0" expanded="false" />
+            <element signature="e#11287#11288#0" expanded="false" />
+            <element signature="e#11335#11336#0" expanded="false" />
+            <element signature="e#11375#11376#0" expanded="false" />
+            <element signature="e#11411#11412#0" expanded="false" />
+            <element signature="e#11443#11444#0" expanded="false" />
+            <element signature="e#11493#11494#0" expanded="false" />
+            <element signature="e#11535#11536#0" expanded="false" />
+            <element signature="e#11573#11574#0" expanded="false" />
+            <element signature="e#11603#11604#0" expanded="false" />
+            <element signature="e#11653#11654#0" expanded="false" />
+            <element signature="e#11691#11692#0" expanded="false" />
+            <element signature="e#11739#11740#0" expanded="false" />
+            <element signature="e#11774#11775#0" expanded="false" />
+            <element signature="e#11839#11840#0" expanded="false" />
+            <element signature="e#11887#11888#0" expanded="false" />
+            <element signature="e#11925#11926#0" expanded="false" />
+            <element signature="e#11955#11956#0" expanded="false" />
+            <element signature="e#12005#12006#0" expanded="false" />
+            <element signature="e#12043#12044#0" expanded="false" />
+            <element signature="e#12075#12076#0" expanded="false" />
+            <element signature="e#12102#12103#0" expanded="false" />
+            <element signature="e#12143#12144#0" expanded="false" />
+            <element signature="e#12175#12176#0" expanded="false" />
+            <element signature="e#12215#12216#0" expanded="false" />
+            <element signature="e#12246#12247#0" expanded="false" />
+            <element signature="e#12299#12300#0" expanded="false" />
+            <element signature="e#12339#12340#0" expanded="false" />
+            <element signature="e#12385#12386#0" expanded="false" />
+            <element signature="e#12419#12420#0" expanded="false" />
+            <element signature="e#12481#12482#0" expanded="false" />
+            <element signature="e#12527#12528#0" expanded="false" />
+            <element signature="e#12569#12570#0" expanded="false" />
+            <element signature="e#12601#12602#0" expanded="false" />
+            <element signature="e#12657#12658#0" expanded="false" />
+            <element signature="e#12699#12700#0" expanded="false" />
+            <element signature="e#12731#12732#0" expanded="false" />
+            <element signature="e#12758#12759#0" expanded="false" />
+            <element signature="e#12799#12800#0" expanded="false" />
+            <element signature="e#12831#12832#0" expanded="false" />
+            <element signature="e#12875#12876#0" expanded="false" />
+            <element signature="e#12908#12909#0" expanded="false" />
+            <element signature="e#12967#12968#0" expanded="false" />
+            <element signature="e#13011#13012#0" expanded="false" />
+            <element signature="e#13065#13066#0" expanded="false" />
+            <element signature="e#13103#13104#0" expanded="false" />
+            <element signature="e#13293#13294#0" expanded="false" />
+            <element signature="e#13335#13336#0" expanded="false" />
+            <element signature="e#13521#13522#0" expanded="false" />
+            <element signature="e#13551#13552#0" expanded="false" />
+            <element signature="e#13601#13602#0" expanded="false" />
+            <element signature="e#13639#13640#0" expanded="false" />
+            <element signature="e#13685#13686#0" expanded="false" />
+            <element signature="e#13719#13720#0" expanded="false" />
+            <element signature="e#13781#13782#0" expanded="false" />
+            <element signature="e#13827#13828#0" expanded="false" />
+            <element signature="e#13859#13860#0" expanded="false" />
+            <element signature="e#13886#13887#0" expanded="false" />
+            <element signature="e#13927#13928#0" expanded="false" />
+            <element signature="e#13959#13960#0" expanded="false" />
+            <element signature="e#14003#14004#0" expanded="false" />
+            <element signature="e#14036#14037#0" expanded="false" />
+            <element signature="e#14095#14096#0" expanded="false" />
+            <element signature="e#14139#14140#0" expanded="false" />
+            <element signature="e#14175#14176#0" expanded="false" />
+            <element signature="e#14204#14205#0" expanded="false" />
+            <element signature="e#14251#14252#0" expanded="false" />
+            <element signature="e#14287#14288#0" expanded="false" />
+            <element signature="e#14341#14342#0" expanded="false" />
+            <element signature="e#14379#14380#0" expanded="false" />
+            <element signature="e#14567#14568#0" expanded="false" />
+            <element signature="e#14608#14609#0" expanded="false" />
+            <element signature="e#14817#14818#0" expanded="false" />
+            <element signature="e#14861#14862#0" expanded="false" />
+            <element signature="e#15077#15078#0" expanded="false" />
+            <element signature="e#15117#15118#0" expanded="false" />
+            <element signature="e#15301#15302#0" expanded="false" />
+            <element signature="e#15335#15336#0" expanded="false" />
+            <element signature="e#15397#15398#0" expanded="false" />
+            <element signature="e#15443#15444#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constructionappsuite/anim/fade_in.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5730337" vertical-offset="0" max-vertical-offset="534">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

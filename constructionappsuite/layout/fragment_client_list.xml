@@ -1,0 +1,75 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey"
+    tools:context="com.example.codetribe1.constructionappsuite.ClientListFragment">
+
+
+    <RelativeLayout
+        android:id="@+id/clientTopLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-10dp"
+        android:padding="8dp">
+
+        <ImageView
+            android:id="@+id/clientImg"
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_alignParentTop="true"
+            android:scaleType="centerCrop"
+            android:src="@drawable/cli" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/clientTopLayout"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="-9dp"
+        android:background="@color/beige_pale"
+        android:padding="8dp">
+
+
+        <TextView
+            android:id="@+id/STAFF_LIST_staffCount"
+            style="@style/GreenCircle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="10dp"
+            android:text="00"
+            android:textSize="15dp" />
+
+
+    </RelativeLayout>
+
+
+    <ListView
+        android:id="@+id/lstClient"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="222dp"
+        android:background="@color/white"
+        android:dividerHeight="8dp" />
+
+    <ImageView
+
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="30dp"
+        android:gravity="center"
+        android:src="@drawable/ic_action_edit"
+        android:tint="@color/green" />
+
+
+</RelativeLayout>

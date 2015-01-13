@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:padding="@dimen/mon_wide">
+
+    <RelativeLayout
+        android:id="@+id/TOAST_top"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/mon_widest">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            android:src="@drawable/banner_construction3" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/TOAST_top">
+
+        <TextView
+            android:id="@+id/TOAST_text"
+            style="@style/Title2TextStyleBlue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="@string/swipe_for_more" />
+
+        <ImageView
+            android:id="@+id/TOAST_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/arrow_left48" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/TOAST_imageSwipe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_margin="@dimen/mon_padding"
+        android:src="@drawable/swipe" />
+
+</RelativeLayout>

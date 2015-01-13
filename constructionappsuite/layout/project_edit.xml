@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/PE_layout0"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/grey"
+    android:padding="8dp"
+    android:visibility="visible">
+
+    <ImageView
+        android:id="@+id/PE_banner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/banner_blue2" />
+
+    <RelativeLayout
+        android:id="@+id/PE_mainLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/PE_banner"
+        android:background="@drawable/xwhite_rounded_corners">
+
+        <TextView
+            android:id="@+id/PE_groupName"
+            style="@style/Title3TextStyleBlack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="10dp"
+            android:inputType="textCapWords"
+            android:text="@string/company_name"
+            android:visibility="gone" />
+
+
+        <EditText
+            android:id="@+id/PE_projectName"
+            style="@style/TextStyleBoldSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/PE_groupName"
+            android:layout_marginTop="24dp"
+            android:hint="@string/projectname"
+            android:inputType="textCapWords" />
+
+        <EditText
+            android:id="@+id/PE_desc"
+            style="@style/TextStyleSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/PE_projectName"
+            android:layout_marginTop="5dp"
+            android:hint="@string/description"
+            android:inputType="textCapSentences"
+            android:minLines="2" />
+
+
+        <Spinner
+            android:id="@+id/PE_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/PE_desc"
+            android:layout_marginTop="@dimen/mon_padding"
+            android:background="@color/blue_pale"
+            android:orientation="horizontal" />
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/PE_spinner"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:padding="8dp">
+
+            <Button
+                android:id="@+id/PE_btnCancel"
+                style="@style/ButtonCancel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/cancel" />
+
+            <Button
+                android:id="@+id/PE_btnSave"
+                style="@style/ButtonRed"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/PE_btnCancel"
+                android:layout_marginTop="8dp"
+                android:text="@string/save" />
+
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <ProgressBar
+        android:id="@+id/PE_progress"
+        style="@android:style/Widget.ProgressBar.Small"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="80dp" />
+
+    <ImageView
+        android:id="@+id/PE_imgDelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="48dp"
+        android:src="@android:drawable/ic_delete" />
+
+
+</RelativeLayout>
